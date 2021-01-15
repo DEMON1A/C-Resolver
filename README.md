@@ -1,5 +1,5 @@
 # C-Resolver
-Simple Hosts Resolver Written In C Language.
+- Simple Hosts Resolver Written In C Language.
 
 ## Installation
 ```
