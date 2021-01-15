@@ -85,8 +85,8 @@ void getip(void *hostname , void *ip)
     if ((he = gethostbyname(hostname)) == NULL) 
 	{
 		/* nothing here just a comment. */
-        /* printf("%s\n" , hostname); */
-        return;
+        	/* printf("%s\n" , hostname); */
+        	return;
 	}
 
 	addr_list = (struct in_addr **) he->h_addr_list;
