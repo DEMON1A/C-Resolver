@@ -1,5 +1,6 @@
 # C-Resolver
 - Simple Hosts Resolver Written In C Language.
+- This Script Has Been Made For Linux Based Systems. To Use It On Windows You Need To Switch To Windows API To Use Socket.
 
 ## Installation
 ```
